@@ -1,0 +1,43 @@
+# Checkpoints des modèles
+*.pth
+*.pt
+
+# Datasets
+train.json
+validation.json
+
+# Logs Slurm
+logs/
+slurm-*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+.venv/
+runs_rnn/
+
+# TensorBoard
+runs_rnn/
+
+# Checkpoints
+*.pth
+*.pt
+
+# Dataset
+train.json
+validation.json
+
+# Slurm logs
+logs/
+slurm-*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# Model checkpoints and training outputs
+*.pth
+logs/
+runs_rnn/
